@@ -1,0 +1,27 @@
+{
+  "name": "salon-de-coiffure-app-(2)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm --prefix \"Salon de Coiffure App (7)\" run dev",
+    "build": "npm --prefix \"Salon de Coiffure App (7)\" run build",
+    "start": "npm --prefix \"Salon de Coiffure App (7)\" run start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.90.1",
+    "framer-motion": "^12.26.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "supabase": "^2.72.4",
+    "vite": "^7.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-swc": "^4.2.2"
+  }
+}
