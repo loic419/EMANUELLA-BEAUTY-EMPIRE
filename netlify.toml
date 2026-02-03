@@ -1,4 +1,4 @@
 [build]
   base = "Salon de Coiffure App (7)"
   command = "npm ci && npm run build"
-  publish = "dist"
+  publish = "build"
