@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "npm --prefix \"Salon de Coiffure App (7)\" run dev",
-    "build": "npm --prefix \"Salon de Coiffure App (7)\" run build",
-    "start": "npm --prefix \"Salon de Coiffure App (7)\" run start",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "",
